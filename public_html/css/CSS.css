@@ -1,0 +1,30 @@
+div {
+    border-style: none;
+    border-width: 5px;
+    padding: px;
+    border-color: green;
+}
+
+.container{
+    border-color: blue;
+}
+
+.row{
+    border-color: red;
+}
+
+.list-group-item{
+    border: 0px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+ 
+ 
+ body{
+     background-image: url(http://img1.gm.gtsstatic.com/wallpapers/451b4dbd8d340493412ca94c0dfb309f_large.jpeg);
+     background-size: cover;
+ }
+
+ 
